@@ -1,0 +1,26 @@
+[
+     {
+          "id": 1,
+          "number_account": 13,
+          "number_agency": 123,
+          "name": "Davi",
+          "password": 123,
+          "date": "2026-06-14"
+     },
+     {
+          "id": 2,
+          "number_account": "",
+          "number_agency": "\\er",
+          "name": "thya",
+          "password": "aery",
+          "date": "2026-06-14"
+     },
+     {
+          "id": 3,
+          "number_account": 123,
+          "number_agency": 123,
+          "name": "123",
+          "password": 123,
+          "date": "2026-06-14"
+     }
+]
