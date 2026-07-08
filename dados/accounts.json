@@ -1,26 +1,37 @@
 [
      {
-          "id": 1,
-          "number_account": 13,
-          "number_agency": 123,
-          "name": "Davi",
-          "password": 123,
-          "date": "2026-06-14"
-     },
-     {
           "id": 2,
-          "number_account": "",
-          "number_agency": "\\er",
-          "name": "thya",
-          "password": "aery",
-          "date": "2026-06-14"
-     },
-     {
-          "id": 3,
-          "number_account": 123,
-          "number_agency": 123,
-          "name": "123",
-          "password": 123,
-          "date": "2026-06-14"
+          "number_account": 1,
+          "number_agency": 2230,
+          "name": "Davi",
+          "password": 4321,
+          "balance_account": 100.0,
+          "extract": [
+               {
+                    "date": "2026-07-07 21:00:28",
+                    "type": "Depósito inicial",
+                    "value": 1000.0,
+                    "description": ""
+               },
+               {
+                    "date": "2026-07-07 21:01:40",
+                    "type": "Depósito",
+                    "value": 200.0,
+                    "description": ""
+               },
+               {
+                    "date": "2026-07-07 21:02:13",
+                    "type": "Saque",
+                    "value": 100.0,
+                    "description": ""
+               },
+               {
+                    "date": "2026-07-07 21:02:45",
+                    "type": "Transferência enviada",
+                    "value": 1000.0,
+                    "description": "Para conta ID 1"
+               }
+          ],
+          "date": "2026-07-07"
      }
 ]
